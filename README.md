@@ -23,7 +23,7 @@ This program is a simple sound generator that runs in the system tray. It genera
 
 3. Run the program:
    ```bash
-   python sound_generator.py
+   python app.py
    ```
 
 ## Usage
